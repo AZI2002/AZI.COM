@@ -1,0 +1,53 @@
+        nav ul li {
+            display: inline;
+            margin: 0 15px;
+        }
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+        }
+        main {
+            padding: 20px;
+            text-align: center;
+        }
+        footer {
+            background-color: #1d3557;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>AZI Clothing</h1>
+    </header>
+
+    <!-- Navigation -->
+    <nav>
+        <ul>
+            <li><a href="#all">All</a></li>
+            <li><a href="#hats">Hats</a></li>
+            <li><a href="#jackets">Jackets</a></li>
+            <li><a href="#accessories">Accessories</a></li>
+        </ul>
+    </nav>
+
+    <!-- Main Content -->
+    <main>
+        <h2>Welcome to AZI Clothing</h2>
+        <p>Discover our latest winter collection!</p>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 AZI Clothing</p>
+    </footer>
+
+</body>
+</html>
